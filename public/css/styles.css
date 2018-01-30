@@ -1,0 +1,21 @@
+.main-header {
+    background-image:  linear-gradient(
+        rgba(74, 191, 206, 0.5),
+        rgba(74, 191, 206, 0.5)
+      ), url('http://test.wicklowmountainsnationalpark.ie/wp-content/uploads/2017/04/WMNP-Deer-silhouette.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.header-container {
+    margin: auto;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.651);
+}
+
+.header-container h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7em;
+}
